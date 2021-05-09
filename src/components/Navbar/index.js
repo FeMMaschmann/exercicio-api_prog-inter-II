@@ -5,7 +5,7 @@ import {
 } from "./NavbarElements";
 // import { animateScroll as scroll } from "react-scroll";
 
-function Navbar() {
+function Index() {
     return (
         <>
             <Nav>
@@ -14,4 +14,4 @@ function Navbar() {
         </>
     );
 };
-export default Navbar;
+export default Index;
